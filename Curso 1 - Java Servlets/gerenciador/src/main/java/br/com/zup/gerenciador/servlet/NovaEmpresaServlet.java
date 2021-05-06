@@ -45,7 +45,7 @@ public class NovaEmpresaServlet extends HttpServlet {
 		Banco banco = new Banco();
 		banco.adiciona(empresa);
 		
-		request.setAttribute("empresa", empresa.getNome());
+		//request.setAttribute("empresa", empresa.getNome());
 		response.sendRedirect("listaEmpresa");
 		
 		
