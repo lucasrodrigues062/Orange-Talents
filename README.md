@@ -8,7 +8,7 @@ Repositório com todo conteúdo do Orange Talents Turma #5
 ## Parte 2
 - [x] Curso - Java Servlet: Fundamentos da programação web Java.
 - [x] HTTP: Entendendo a web por baixo dos panos.
-- [ ] Introdução ao SQL com MySQL: Manipule e consulte dados
+- [x] Introdução ao SQL com MySQL: Manipule e consulte dados
 - [ ] Consultas SQL: Avançando no SQL com MySQL
 - [ ] Java e JPA: Persista seus objetos com a JPA2 e Hibernate
 - [ ] Spring Boot API REST: Construa uma API
