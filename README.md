@@ -5,7 +5,7 @@ Repositório com todo conteúdo do Orange Talents Turma #5
 
 - [x] Como ser um bom estudante.
 
-## Parte 2 ![Progress](https://progress-bar.dev/90/?title=done)
+## Parte 2 ![Progress](https://progress-bar.dev/100/?title=done)
 
 - [x] Curso - Java Servlet: Fundamentos da programação web Java.
 - [x] HTTP: Entendendo a web por baixo dos panos.
@@ -16,7 +16,7 @@ Repositório com todo conteúdo do Orange Talents Turma #5
 - [x] Spring Boot API Rest: Segurança da API, Cache e Monitoramento
 - [x] Spring Boot e Teste: Profiles, Testes e Deploy
 - [x] Spring Data JPA: Repositórios, Consultas, Projeções e Specifications
-- [ ] SOLID com Java: Orientação a Objetos com Java
+- [x] SOLID com Java: Orientação a Objetos com Java
 
 ## Desafio 1 ![Progress](https://progress-bar.dev/0/?title=done)
 
