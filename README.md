@@ -11,10 +11,12 @@ Percentual de conclusão:   ![Progress](https://progress-bar.dev/12/?title=done)
 
 ## Fase 1 ![Progress](https://progress-bar.dev/100/?title=done)
 
+### Alura
 - [x] Como ser um bom estudante.
 
 ## Fase 2 ![Progress](https://progress-bar.dev/100/?title=done)
 
+### Alura ![Progress](https://progress-bar.dev/100/?title=done)
 - [x] Curso - Java Servlet: Fundamentos da programação web Java.
 - [x] HTTP: Entendendo a web por baixo dos panos.
 - [x] Introdução ao SQL com MySQL: Manipule e consulte dados
@@ -26,17 +28,18 @@ Percentual de conclusão:   ![Progress](https://progress-bar.dev/12/?title=done)
 - [x] Spring Data JPA: Repositórios, Consultas, Projeções e Specifications
 - [x] SOLID com Java: Orientação a Objetos com Java
 
-## Desafio 1 ![Progress](https://progress-bar.dev/100/?title=done)
+## Fase 3 ![Progress](https://progress-bar.dev/50/?title=done)
+
+### Desafio 1 ![Progress](https://progress-bar.dev/100/?title=done)
 
 - [x] Editora Casa do Código
 
-## Fase 3 ![Progress](https://progress-bar.dev/33/?title=done)
-
+### Alura ![Progress](https://progress-bar.dev/33/?title=done)
 - [x] Introdução a testes automatizados
 - [ ] Testes de integração
 - [ ] Conteúdo mais profundo sobre testes
 
-## Desafio 2 ![Progress](https://progress-bar.dev/0/?title=done)
+### Desafio 2 ![Progress](https://progress-bar.dev/0/?title=done)
 
 - [ ] Desafio Mercado Livre
 
@@ -59,11 +62,11 @@ Percentual de conclusão:   ![Progress](https://progress-bar.dev/12/?title=done)
 - [ ] Jaeger como implementaçãod de Open tracing;
 - [ ] Introdução a Apache Kafka
 
-## Desafio 3 ![Progress](https://progress-bar.dev/0/?title=done)
+### Desafio 3 ![Progress](https://progress-bar.dev/0/?title=done)
 
 - [ ] Implemente o microservice relativo a criação de propostas
 
-## Desafio 4 ![Progress](https://progress-bar.dev/0/?title=done)
+### Desafio 4 ![Progress](https://progress-bar.dev/0/?title=done)
 
 - [ ] Serviço de transação
 
@@ -106,6 +109,7 @@ Percentual de conclusão:   ![Progress](https://progress-bar.dev/12/?title=done)
 - [ ] Definindo headers e status customizados
 
 ### GRPC ![Progress](https://progress-bar.dev/0/?title=done)
+
 - [ ] O que é GRPC e a motivação do seu uso
 - [ ] Introdução a protobuf
 - [ ] Expondo dados via GRPC
