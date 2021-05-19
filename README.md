@@ -3,7 +3,7 @@ Repositório com todo conteúdo do Orange Talents Turma #5
 Quantidade de passos: 109
 Quantidade de passos concluídos: 13
 Quantidade de passos restantes: 96
-Percentual de conclusão: (https://progress-bar.dev/11.92/?title=done)
+Percentual de conclusão: ![Progress](https://progress-bar.dev/12/?title=done)
 
 ## Fase 1 ![Progress](https://progress-bar.dev/100/?title=done)
 
@@ -26,7 +26,7 @@ Percentual de conclusão: (https://progress-bar.dev/11.92/?title=done)
 
 - [x] Editora Casa do Código
 
-## Fase 3 ![Progress](https://progress-bar.dev/33.33/?title=done)
+## Fase 3 ![Progress](https://progress-bar.dev/33/?title=done)
 
 - [x] Introdução a testes automatizados
 - [ ] Testes de integração
