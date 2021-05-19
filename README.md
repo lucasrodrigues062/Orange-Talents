@@ -18,13 +18,13 @@ Repositório com todo conteúdo do Orange Talents Turma #5
 - [x] Spring Data JPA: Repositórios, Consultas, Projeções e Specifications
 - [x] SOLID com Java: Orientação a Objetos com Java
 
-## Desafio 1 ![Progress](https://progress-bar.dev/0/?title=done)
+## Desafio 1 ![Progress](https://progress-bar.dev/100/?title=done)
 
 - [ ] Editora Casa do Código
 
-## Parte 3 ![Progress](https://progress-bar.dev/0/?title=done)
+## Parte 3 ![Progress](https://progress-bar.dev/50/?title=done)
 
-- [ ] Introdução a testes automatizados
+- [x] Introdução a testes automatizados
 - [ ] Testes de integração
 
 ## Desafio 2 ![Progress](https://progress-bar.dev/0/?title=done)
