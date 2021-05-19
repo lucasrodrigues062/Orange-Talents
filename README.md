@@ -1,9 +1,13 @@
 # Orange-Talents 
 Repositório com todo conteúdo do Orange Talents Turma #5
+
 Quantidade de passos: 109
+
 Quantidade de passos concluídos: 13
+
 Quantidade de passos restantes: 96
-Percentual de conclusão: ![Progress](https://progress-bar.dev/12/?title=done)
+
+Percentual de conclusão:   ![Progress](https://progress-bar.dev/12/?title=done)
 
 ## Fase 1 ![Progress](https://progress-bar.dev/100/?title=done)
 
