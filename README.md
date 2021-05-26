@@ -3,11 +3,11 @@ Repositório com todo conteúdo do Orange Talents Turma #5
 
 Quantidade de passos: 109
 
-Quantidade de passos concluídos: 13
+Quantidade de passos concluídos: 16
 
-Quantidade de passos restantes: 96
+Quantidade de passos restantes: 93
 
-Percentual de conclusão:   ![Progress](https://progress-bar.dev/12/?title=done)
+Percentual de conclusão:   ![Progress](https://progress-bar.dev/15/?title=done)
 
 ## Fase 1 ![Progress](https://progress-bar.dev/100/?title=done)
 
@@ -28,20 +28,20 @@ Percentual de conclusão:   ![Progress](https://progress-bar.dev/12/?title=done)
 - [x] Spring Data JPA: Repositórios, Consultas, Projeções e Specifications
 - [x] SOLID com Java: Orientação a Objetos com Java
 
-## Fase 3 ![Progress](https://progress-bar.dev/50/?title=done)
+## Fase 3 ![Progress](https://progress-bar.dev/100/?title=done)
 
 ### Desafio 1 ![Progress](https://progress-bar.dev/100/?title=done)
 
 - [x] Editora Casa do Código
 
-### Alura ![Progress](https://progress-bar.dev/33/?title=done)
+### Alura ![Progress](https://progress-bar.dev/100/?title=done)
 - [x] Introdução a testes automatizados
-- [ ] Testes de integração
-- [ ] Conteúdo mais profundo sobre testes
+- [x] Testes de integração
+- [x] Conteúdo mais profundo sobre testes
 
-### Desafio 2 ![Progress](https://progress-bar.dev/0/?title=done)
+### Desafio 2 ![Progress](https://progress-bar.dev/100/?title=done)
 
-- [ ] Desafio Mercado Livre
+- [x] Desafio Mercado Livre
 
 ## Fase 4 ![Progress](https://progress-bar.dev/0/?title=done)
 
@@ -119,7 +119,7 @@ Percentual de conclusão:   ![Progress](https://progress-bar.dev/12/?title=done)
 - [ ] Healthcheck sobre GRPC
 - [ ] Micronaut Testing - como testar uma API gRPC
 
-## Desafio 5 ![Progress](https://progress-bar.dev/0/?title=done)
+### Desafio 5 ![Progress](https://progress-bar.dev/0/?title=done)
 
 - [ ] Construa um sistema distribuído que simule o funcionamento do PIX
 
