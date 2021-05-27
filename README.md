@@ -3,9 +3,9 @@ Repositório com todo conteúdo do Orange Talents Turma #5
 
 Quantidade de passos: 109
 
-Quantidade de passos concluídos: 16
+Quantidade de passos concluídos: 17
 
-Quantidade de passos restantes: 93
+Quantidade de passos restantes: 92
 
 Percentual de conclusão:   ![Progress](https://progress-bar.dev/15/?title=done)
 
@@ -45,7 +45,7 @@ Percentual de conclusão:   ![Progress](https://progress-bar.dev/15/?title=done)
 
 ## Fase 4 ![Progress](https://progress-bar.dev/0/?title=done)
 
-- [ ] Introdução a Docker
+- [x] Introdução a Docker
 - [ ] Healthcheck;
 - [ ] Readiness checks;
 - [ ] Spring Actuator;
