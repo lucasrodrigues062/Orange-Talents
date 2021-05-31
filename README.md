@@ -3,11 +3,11 @@ Repositório com todo conteúdo do Orange Talents Turma #5
 
 Quantidade de passos: 109
 
-Quantidade de passos concluídos: 17
+Quantidade de passos concluídos: 31
 
-Quantidade de passos restantes: 92
+Quantidade de passos restantes: 78
 
-Percentual de conclusão:   ![Progress](https://progress-bar.dev/15/?title=done)
+Percentual de conclusão:   ![Progress](https://progress-bar.dev/28/?title=done)
 
 ## Fase 1 ![Progress](https://progress-bar.dev/100/?title=done)
 
@@ -43,28 +43,33 @@ Percentual de conclusão:   ![Progress](https://progress-bar.dev/15/?title=done)
 
 - [x] Desafio Mercado Livre
 
-## Fase 4 ![Progress](https://progress-bar.dev/0/?title=done)
+## Fase 4 ![Progress](https://progress-bar.dev/88/?title=done)
 
 - [x] Introdução a Docker
-- [ ] Healthcheck;
-- [ ] Readiness checks;
-- [ ] Spring Actuator;
-- [ ] Spring Health check;
-- [ ] Segurança em ambientes cloud native;
-- [ ] Introdução a Oauth;
-- [ ] Introdução a Keycloak;
-- [ ] Sobre métricas;
-- [ ] Métricas tipo RED;
-- [ ] Métricas tipo USE;
-- [ ] Introdução ao Prometheus;
-- [ ] Spring Actuator e métricas
-- [ ] Introdução a Open tracing;
-- [ ] Jaeger como implementaçãod de Open tracing;
-- [ ] Introdução a Apache Kafka
+- [x] Healthcheck;
+- [x] Readiness checks;
+- [x] Spring Actuator;
+- [x] Spring Health check;
+- [x] Segurança em ambientes cloud native;
+- [x] Introdução a Oauth;
+- [x] Introdução a Keycloak;
+- [x] Sobre métricas;
+- [x] Métricas tipo RED;
+- [x] Métricas tipo USE;
+- [x] Introdução ao Prometheus;
+- [x] Spring Actuator e métricas
+- [x] Introdução a Open tracing;
+- [x] Jaeger como implementação de Open tracing;
 
 ### Desafio 3 ![Progress](https://progress-bar.dev/0/?title=done)
 
 - [ ] Implemente o microservice relativo a criação de propostas
+
+### Alura
+
+- [ ] Introdução a Apache Kafka
+
+
 
 ### Desafio 4 ![Progress](https://progress-bar.dev/0/?title=done)
 
