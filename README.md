@@ -3,11 +3,11 @@ Repositório com todo conteúdo do Orange Talents Turma #5
 
 Quantidade de passos: 109
 
-Quantidade de passos concluídos: 34
+Quantidade de passos concluídos: 41
 
-Quantidade de passos restantes: 75
+Quantidade de passos restantes: 68
 
-Percentual de conclusão:   ![Progress](https://progress-bar.dev/31/?title=done)
+Percentual de conclusão:   ![Progress](https://progress-bar.dev/38/?title=done)
 
 ## Fase 1 ![Progress](https://progress-bar.dev/100/?title=done)
 
@@ -75,43 +75,43 @@ Percentual de conclusão:   ![Progress](https://progress-bar.dev/31/?title=done)
 
 - [x] Serviço de transação
 
-## Fase 5 ![Progress](https://progress-bar.dev/0/?title=done)
+## Fase 5 ![Progress](https://progress-bar.dev/9/?title=done)
 
-### Kotlin ![Progress](https://progress-bar.dev/0/?title=done)
+### Kotlin ![Progress](https://progress-bar.dev/100/?title=done)
 
-- [ ] Kotlin: primeiros passos e Orientação a Objetos
-- [ ] Kotlin: herança, polimorfismo e interface
-- [ ] Kotlin: recursos da linguagem com pacotes e composição
-- [ ] Kotlin: lidando com exceptions e referências nulas
-- [ ] Kotlin: Desenvolva com coleções, arrays e listas
-- [ ] Kotlin Collections: Set e Map
-- [ ] Kotlin: recursos do paradigma funcional
+- [x] Kotlin: primeiros passos e Orientação a Objetos
+- [x] Kotlin: herança, polimorfismo e interface
+- [x] Kotlin: recursos da linguagem com pacotes e composição
+- [x] Kotlin: lidando com exceptions e referências nulas
+- [x] Kotlin: Desenvolva com coleções, arrays e listas
+- [x] Kotlin Collections: Set e Map
+- [x] Kotlin: recursos do paradigma funcional
 
 
-### Micronaut ![Progress](https://progress-bar.dev/0/?title=done)
+### Micronaut ![Progress](https://progress-bar.dev/55/?title=done)
 
-- [ ] O que é Micronaut ?
-- [ ] Setup de um projeto utilizando Micronaut
-- [ ] Configuração do IntelliJ para o Micronaut
-- [ ] Recebendo dados via JSON
-- [ ] Validando os dados de entrada de uma requisição
-- [ ] Conversão de um objeto de entrada para um objeto de domínio
-- [ ] Gravando os dados com Micronaut Data
-- [ ] Fluxo completo para salvar um objeto no banco de dados
-- [ ] Métodos que geram queries no Micronaut Data
-- [ ] Mapeando queries explicitamente no Micronaut Data
-- [ ] Recebendo dados via PUT
-- [ ] Recebendo dados via DELETE
-- [ ] Demarcação de transação
-- [ ] Retornando dados em JSON
-- [ ] Definindo headers e status customizados
-- [ ] Consumindo um endpoint REST com Micronaut de forma declarativa
-- [ ] Configurando seu HTTP client com Micronaut para trabalhar com XML em vez de JSON
-- [ ] Implementando Validação customizada com Micronaut Validation
-- [ ] Micronaut Testing - como testar uma API REST
-- [ ] Micronaut Testing - como criar mocks com Micronaut
-- [ ] Micronaut Testing - controle transacional e banco em memória
-- [ ] Definindo headers e status customizados
+- [x] O que é Micronaut ?
+- [x] Setup de um projeto utilizando Micronaut
+- [x] Configuração do IntelliJ para o Micronaut
+- [x] Recebendo dados via JSON
+- [x] Validando os dados de entrada de uma requisição (obs: erro ao responder o questionario "Permissao Necessaria")
+- [x] Conversão de um objeto de entrada para um objeto de domínio (obs: erro ao responder o questionario "Permissao Necessaria")
+- [x] Gravando os dados com Micronaut Data
+- [x] Fluxo completo para salvar um objeto no banco de dados
+- [x] Métodos que geram queries no Micronaut Data
+- [x] Mapeando queries explicitamente no Micronaut Data
+- [x] Recebendo dados via PUT
+- [x] Recebendo dados via DELETE
+- [x] Demarcação de transação
+- [x] Retornando dados em JSON
+- [x] Definindo headers e status customizados
+- [x] Consumindo um endpoint REST com Micronaut de forma declarativa
+- [x] Configurando seu HTTP client com Micronaut para trabalhar com XML em vez de JSON
+- [x] Implementando Validação customizada com Micronaut Validation
+- [x] Micronaut Testing - como testar uma API REST
+- [x] Micronaut Testing - como criar mocks com Micronaut
+- [x] Micronaut Testing - controle transacional e banco em memória
+- [x] Definindo headers e status customizados
 
 ### GRPC ![Progress](https://progress-bar.dev/0/?title=done)
 
