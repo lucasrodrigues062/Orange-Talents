@@ -3,11 +3,11 @@ Repositório com todo conteúdo do Orange Talents Turma #5
 
 Quantidade de passos: 109
 
-Quantidade de passos concluídos: 41
+Quantidade de passos concluídos: 63
 
-Quantidade de passos restantes: 68
+Quantidade de passos restantes: 46
 
-Percentual de conclusão:   ![Progress](https://progress-bar.dev/38/?title=done)
+Percentual de conclusão:   ![Progress](https://progress-bar.dev/58/?title=done)
 
 ## Fase 1 ![Progress](https://progress-bar.dev/100/?title=done)
 
@@ -75,7 +75,7 @@ Percentual de conclusão:   ![Progress](https://progress-bar.dev/38/?title=done)
 
 - [x] Serviço de transação
 
-## Fase 5 ![Progress](https://progress-bar.dev/9/?title=done)
+## Fase 5 ![Progress](https://progress-bar.dev/39/?title=done)
 
 ### Kotlin ![Progress](https://progress-bar.dev/100/?title=done)
 
@@ -88,7 +88,7 @@ Percentual de conclusão:   ![Progress](https://progress-bar.dev/38/?title=done)
 - [x] Kotlin: recursos do paradigma funcional
 
 
-### Micronaut ![Progress](https://progress-bar.dev/55/?title=done)
+### Micronaut ![Progress](https://progress-bar.dev/100/?title=done)
 
 - [x] O que é Micronaut ?
 - [x] Setup de um projeto utilizando Micronaut
