@@ -1,0 +1,43 @@
+syntax = "proto3";
+
+option java_multiple_files = true;
+option java_package = "br.com.zup.edu";
+option java_outer_classname = "Protobuf";
+option objc_class_prefix = "HLW";
+
+package br.com.zup.edu;
+
+import "google/protobuf/timestamp.proto";
+
+service FuncionarioService {
+
+  rpc cadastrar(FuncionarioRequest) returns (FuncionarioResponse) {}
+}
+
+enum Cargo {
+  DEV = 0;
+  QA = 1;
+  GERENTE = 3;
+}
+
+message FuncionarioRequest {
+  string nome = 1;
+  string cpf = 2;
+  int32 idade = 3;
+  double salario = 4;
+  bool ativo = 5;
+  Cargo cargo = 6;
+
+  message Endereco {
+    string logradouro = 1;
+    string cep = 2;
+    string complemento = 3;
+  }
+  repeated Endereco enderecos = 7;
+
+}
+
+message FuncionarioResponse {
+  string nome = 1;
+  google.protobuf.Timestamp criadoEm = 2;
+}

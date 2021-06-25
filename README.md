@@ -3,11 +3,11 @@ Repositório com todo conteúdo do Orange Talents Turma #5
 
 Quantidade de passos: 109
 
-Quantidade de passos concluídos: 63
+Quantidade de passos concluídos: 72
 
-Quantidade de passos restantes: 46
+Quantidade de passos restantes: 37
 
-Percentual de conclusão:   ![Progress](https://progress-bar.dev/58/?title=done)
+Percentual de conclusão:   ![Progress](https://progress-bar.dev/66/?title=done)
 
 ## Fase 1 ![Progress](https://progress-bar.dev/100/?title=done)
 
@@ -75,7 +75,7 @@ Percentual de conclusão:   ![Progress](https://progress-bar.dev/58/?title=done)
 
 - [x] Serviço de transação
 
-## Fase 5 ![Progress](https://progress-bar.dev/39/?title=done)
+## Fase 5 ![Progress](https://progress-bar.dev/50/?title=done)
 
 ### Kotlin ![Progress](https://progress-bar.dev/100/?title=done)
 
@@ -113,16 +113,17 @@ Percentual de conclusão:   ![Progress](https://progress-bar.dev/58/?title=done)
 - [x] Micronaut Testing - controle transacional e banco em memória
 - [x] Definindo headers e status customizados
 
-### GRPC ![Progress](https://progress-bar.dev/0/?title=done)
+### GRPC ![Progress](https://progress-bar.dev/100/?title=done)
 
-- [ ] O que é GRPC e a motivação do seu uso
-- [ ] Introdução a protobuf
-- [ ] Expondo dados via GRPC
-- [ ] Retornando códigos de erro em uma API gRPC
-- [ ] Lidando com erros retornados pela API gRPC
-- [ ] Healthcheck sobre HTTP
-- [ ] Healthcheck sobre GRPC
-- [ ] Micronaut Testing - como testar uma API gRPC
+- [x] O que é GRPC e a motivação do seu uso
+- [x] Introdução a protobuf
+- [x] Expondo dados via GRPC
+- [x] Consumindo um endpoint via GRPC
+- [x] Retornando códigos de erro em uma API gRPC
+- [x] Lidando com erros retornados pela API gRPC
+- [x] Healthcheck sobre HTTP
+- [x] Healthcheck sobre GRPC
+- [x] Micronaut Testing - como testar uma API gRPC
 
 ### Desafio 5 ![Progress](https://progress-bar.dev/0/?title=done)
 

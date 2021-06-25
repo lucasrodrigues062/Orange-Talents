@@ -1,0 +1,31 @@
+syntax = "proto3";
+
+option java_multiple_files = true;
+option java_package = "com.example";
+option java_outer_classname = "Frete";
+option objc_class_prefix = "HLW";
+
+package com.example;
+
+service FreteService {
+  rpc send (FreteRequest) returns (FreteReply) {}
+  rpc calculaFrete(CalculaFreteRequest) returns (CalculaFreteResponse) {}
+}
+
+message CalculaFreteRequest {
+  string cep = 1;
+}
+
+message CalculaFreteResponse {
+ double valor = 1;
+ string cep = 2;
+}
+
+
+message FreteRequest {
+  string name = 1;
+}
+
+message FreteReply {
+  string message = 1;
+}
