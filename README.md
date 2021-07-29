@@ -3,11 +3,11 @@ Repositório com todo conteúdo do Orange Talents Turma #5
 
 Quantidade de passos: 109
 
-Quantidade de passos concluídos: 72
+Quantidade de passos concluídos: 108
 
-Quantidade de passos restantes: 37
+Quantidade de passos restantes: 1
 
-Percentual de conclusão:   ![Progress](https://progress-bar.dev/66/?title=done)
+Percentual de conclusão:   ![Progress](https://progress-bar.dev/99/?title=done)
 
 ## Fase 1 ![Progress](https://progress-bar.dev/100/?title=done)
 
@@ -75,7 +75,7 @@ Percentual de conclusão:   ![Progress](https://progress-bar.dev/66/?title=done)
 
 - [x] Serviço de transação
 
-## Fase 5 ![Progress](https://progress-bar.dev/50/?title=done)
+## Fase 5 ![Progress](https://progress-bar.dev/100/?title=done)
 
 ### Kotlin ![Progress](https://progress-bar.dev/100/?title=done)
 
@@ -125,47 +125,47 @@ Percentual de conclusão:   ![Progress](https://progress-bar.dev/66/?title=done)
 - [x] Healthcheck sobre GRPC
 - [x] Micronaut Testing - como testar uma API gRPC
 
-### Desafio 5 ![Progress](https://progress-bar.dev/0/?title=done)
+### Desafio 5 ![Progress](https://progress-bar.dev/84/?title=done)
 
 - [ ] Construa um sistema distribuído que simule o funcionamento do PIX
 
-## Deploy ![Progress](https://progress-bar.dev/0/?title=done)
+## Deploy ![Progress](https://progress-bar.dev/100/?title=done)
 
-- [ ] Kubernetes: Pods, Services e ConfigMaps
-- [ ] Kubernetes: Deployments, Volumes e Escalabilidade
-- [ ] Codebuild: O que é?
-- [ ] Codebuild: Buildspec.yaml
-- [ ] Codebuild: Criando projeto
-- [ ] Codebuild: Explicando a criação do projeto
-- [ ] Codedeploy: O que é?
-- [ ] Codedeploy: App Spec
-- [ ] Codedeploy: Criando explicação
-- [ ] Codedeploy: Explicando a criação
-- [ ] Codedeploy: Custo
-- [ ] Codepipeline: O que é?
-- [ ] ECR: O que é?
-- [ ] ECR: Navegando na interface
-- [ ] ECR: Explicando e conhecendo a interface
-- [ ] Criando um Pipeline - Apresentação projeto
-- [ ] Criando um Pipeline - O código utilizado
-- [ ] Criando um Pipeline - Explicando o código utilizado
-- [ ] Criando um Pipeline - Roles
-- [ ] Criando um Pipeline - Explicação das roles
-- [ ] Criando um Pipeline - EC2
-- [ ] Criando um Pipeline - Explicação EC2
-- [ ] Criando um Pipeline - Codebuild
-- [ ] Criando um Pipeline - Explicação Codebuild
-- [ ] Criando um Pipeline - Codedeploy
-- [ ] Criando um Pipeline - Explicação Codedeploy
-- [ ] Criando um Pipeline - Codepipeline
-- [ ] Criando um Pipeline - Explicação Codepipeline
-- [ ] Apresentando Helm
-- [ ] Explicação sobre o exemplo já implementado
-- [ ] Explicação enquanto implementa o exemplo
-- [ ] Conhecendo o Gitlab
-- [ ] Explicação durante criação de projetos no Gitlab
-- [ ] O que é codecommit
-- [ ] Explicação de criação de um repositório no codecommit
-- [ ] Mirroring gitlab x codecommit explicação sobre exemplo construído
-- [ ] Mirroring gitlab x codecommit explicação sobre exemplo enquanto constrói
+- [x] Kubernetes: Pods, Services e ConfigMaps
+- [x] Kubernetes: Deployments, Volumes e Escalabilidade
+- [x] Codebuild: O que é?
+- [x] Codebuild: Buildspec.yaml
+- [x] Codebuild: Criando projeto
+- [x] Codebuild: Explicando a criação do projeto
+- [x] Codedeploy: O que é?
+- [x] Codedeploy: App Spec
+- [x] Codedeploy: Criando explicação
+- [x] Codedeploy: Explicando a criação
+- [x] Codedeploy: Custo
+- [x] Codepipeline: O que é?
+- [x] ECR: O que é?
+- [x] ECR: Navegando na interface
+- [x] ECR: Explicando e conhecendo a interface
+- [x] Criando um Pipeline - Apresentação projeto
+- [x] Criando um Pipeline - O código utilizado
+- [x] Criando um Pipeline - Explicando o código utilizado
+- [x] Criando um Pipeline - Roles
+- [x] Criando um Pipeline - Explicação das roles
+- [x] Criando um Pipeline - EC2
+- [x] Criando um Pipeline - Explicação EC2
+- [x] Criando um Pipeline - Codebuild
+- [x] Criando um Pipeline - Explicação Codebuild
+- [x] Criando um Pipeline - Codedeploy
+- [x] Criando um Pipeline - Explicação Codedeploy
+- [x] Criando um Pipeline - Codepipeline
+- [x] Criando um Pipeline - Explicação Codepipeline
+- [x] Apresentando Helm
+- [x] Explicação sobre o exemplo já implementado
+- [x] Explicação enquanto implementa o exemplo
+- [x] Conhecendo o Gitlab
+- [x] Explicação durante criação de projetos no Gitlab
+- [x] O que é codecommit
+- [x] Explicação de criação de um repositório no codecommit
+- [x] Mirroring gitlab x codecommit explicação sobre exemplo construído
+- [x] Mirroring gitlab x codecommit explicação sobre exemplo enquanto constrói
 

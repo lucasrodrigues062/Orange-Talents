@@ -1,0 +1,11 @@
+AWS Code build.
+É um serviço gerado de integração continua.
+escala automaticamente e é multi-thread, se integra com outros produtos da esteira de CI/CD.
+
+buildspec.yml
+
+Para criar um projeto codebuild é necessário criar um IAM e criar uma policy, necessário tambem criar uma role para o codebuild.
+e o CloudWatch, para enviar os logs
+
+CodePipeline
+é um serviço de entrega continua ou seja CD

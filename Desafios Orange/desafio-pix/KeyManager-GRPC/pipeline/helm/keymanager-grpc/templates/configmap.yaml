@@ -1,0 +1,10 @@
+kind: ConfigMap
+apiVersion: v1
+metadata:
+  name: keymanager-grpc-configmap
+data:
+  JDBC_URL: "{{ .Values.application.JDBC_URL }}"
+  JDBC_USER: "{{ .Values.application.JDBC_USER }}"
+  JDBC_DRIVER: "{{ .Values.application.JDBC_DRIVER }}"
+  API_ITAU:  "{{ .Values.application.API_ITAU }}"
+  API_BCB: "{{ .Values.application.API_BCB }}"

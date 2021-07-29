@@ -1,0 +1,113 @@
+syntax = "proto3";
+
+option java_multiple_files = true;
+option java_package = "br.com.zup.pix";
+option java_outer_classname = "grpc";
+option objc_class_prefix = "HLW";
+
+package br.com.zup.pix;
+import "google/protobuf/timestamp.proto";
+
+service KeyManagerCadastraGrpcService {
+
+  rpc cadastraChave(ChavePixRequest) returns (ChavePixResponse) {}
+}
+service KeyManagerRemoveGrpcService {
+  rpc removeChave(RemoveChaveRequest) returns (RemoveChaveResponse){}
+}
+service KeyManagerConsultaGrpcService{
+  rpc consultaChave(ConsultaChaveRequest) returns (ConsultaChaveResponse){}
+}
+
+service KeyManagerListaGrpService{
+  rpc lista(ListaChaveRequest) returns (ListaChaveResponse){}
+}
+
+message ListaChaveRequest {
+  string clientId = 1;
+}
+
+message ListaChaveResponse {
+  message ChavePix {
+    string pixId = 1;
+    TipoDeChave tipo = 2;
+    string chave = 3;
+    TipoDeConta tipoDeConta = 4;
+    google.protobuf.Timestamp criadaEm = 5;
+  }
+
+  string clientId = 1;
+  repeated ChavePix chaves = 2;
+}
+
+message ConsultaChaveRequest {
+  message ConsultaPorId{
+    string clientId = 1;
+    string pixId = 2;
+  }
+  oneof filtro{
+    ConsultaPorId pixId = 1;
+    string chave = 2;
+  }
+}
+
+message ConsultaChaveResponse{
+  message ChavePix{
+    message DadosBancarios {
+      TipoDeConta tipo = 1;
+      string instituicao = 2;
+      string titular = 3;
+      string cpf = 4;
+      string agencia = 5;
+      string numeroConta = 6;
+    }
+    TipoDeChave tipo = 1;
+    string chave = 2;
+    DadosBancarios conta = 3;
+    google.protobuf.Timestamp criadaEm = 4;
+  }
+  string clientId = 1;
+  string pixId = 2;
+  ChavePix chavePix = 3;
+}
+
+message RemoveChaveRequest {
+  string clientId = 1;
+  string chaveId = 2;
+}
+message RemoveChaveResponse {
+  string responseMessage = 1;
+}
+
+enum TipoDeChave {
+  DEFAULT_CHAVE = 0;
+  CPF = 1;
+  TELEFONE = 2;
+  EMAIL = 3;
+  ALEATORIA = 4;
+}
+enum TipoDeConta{
+  DEFAULT_CONTA = 0;
+  CONTA_CORRENTE = 1;
+  CONTA_POUPANCA = 2;
+}
+
+message ChavePixRequest {
+  string codigoInterno = 1;
+  TipoDeChave tipoDeChave = 2;
+  string valorDaChave = 3;
+  TipoDeConta tipoDeConta = 4;
+}
+
+message ChavePixResponse {
+  string clientId = 1;
+  string chaveId = 2;
+}
+
+message DesafioPixRequest {
+  string name = 1;
+}
+
+message DesafioPixReply {
+  string message = 1;
+}

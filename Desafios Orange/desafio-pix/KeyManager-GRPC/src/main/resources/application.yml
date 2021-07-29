@@ -1,0 +1,21 @@
+micronaut:
+  application:
+    name: desafioPix
+datasources:
+  default:
+    url: ${JDBC_URL:`jdbc:postgresql://localhost:5432/keymanager`}
+    username: ${JDBC_USER:pix}
+    password: ${JDBC_PASSWORD:password}
+    driverClassName: ${JDBC_DRIVER:org.postgresql.Driver}
+    schema-generate: CREATE_DROP
+
+api:
+  consulta:
+    itau: ${API_ITAU:http://localhost:9091}
+    bcb: ${API_BCB:http://localhost:8082}
+
+
+jpa.default.properties.hibernate.hbm2ddl.auto: update
+jpa.default.properties.hibernate.show_sql: true
+jpa.default.properties.hibernate.format_sql: true
+
